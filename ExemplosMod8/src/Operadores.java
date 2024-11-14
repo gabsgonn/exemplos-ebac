@@ -1,6 +1,10 @@
-public class OperadoresAritimeticos {
+public class Operadores {
 
     public static void main(String[] args) {
+        operadoresAritimeticos();
+    };
+
+    public static void operadoresAritimeticos() {
         int num1 = 10;
         int num2 = 20;
 
@@ -8,11 +12,12 @@ public class OperadoresAritimeticos {
         int num4 = num1 - num2;
         int num5 = num1 / num2;
         int num6 = num1 * num2;
-
+        int num7 = (87 + 15) * 20;
 
         System.out.println(num3);
         System.out.println(num4);
         System.out.println(num5);
         System.out.println(num6);
-    }
-}
+        System.out.println(num7);
+    };
+};
