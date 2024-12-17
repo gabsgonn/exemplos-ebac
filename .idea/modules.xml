@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/exemplos-ebac.iml" filepath="$PROJECT_DIR$/exemplos-ebac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exemplosEbac.iml" filepath="$PROJECT_DIR$/exemplosEbac.iml" />
     </modules>
   </component>
 </project>
